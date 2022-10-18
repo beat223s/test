@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7508292d9CEd618DE5fc32Db86637989D4697a59",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x7508292d9ced618de5fc32db86637989d4697a59",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "eth",
+    "ID": 137
+  },
+  "NFT_NAME": "ThePurge",
+  "SYMBOL": "TPE",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 9900000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/fr/collection/thepurge",
+  "SHOW_BACKGROUND": true
+}
